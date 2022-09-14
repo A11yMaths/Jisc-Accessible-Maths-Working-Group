@@ -8,3 +8,7 @@ See our Meeting Stories for the progress the JISC AC sub-group for Accessible Ma
 # Contributors
 See our Contributors page for information about the people invovled: 
 * [Contributors](https://github.com/A11yMaths/JISC-Accessible-Maths-Working-Group/wiki/Contributors).
+
+# Glossary
+We maintain a glossary of key terms
+* [Glossary](https://github.com/A11yMaths/Maths-Glossary)
