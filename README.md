@@ -2,7 +2,7 @@
 This is a place to record information about the working group
 
 # Jiscmail list for Accessible Maths
-https://jiscmail.ac.uk/accessible-maths
+[Join our jiscmail list for discussions or to be notified of meetings](https://jiscmail.ac.uk/accessible-maths)
 
 # Meeting Stories
 See our Meeting Stories for the progress the JISC AC sub-group for Accessible Maths is making: 
