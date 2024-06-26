@@ -1,5 +1,5 @@
 # Jisc-Accessible-Maths-Working-Group
-This is a place to record information about the working group
+This was a place to record information about the working . We have now moved to our [new website](bit.ly\JiscAM).
 
 # Jiscmail list for Accessible Maths
 [Join our jiscmail list for discussions or to be notified of meetings](https://jiscmail.ac.uk/accessible-maths)
